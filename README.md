@@ -1,5 +1,7 @@
 # Active Auth
 
+**Project archived and moved to an organization. New organization: [https://github.com/active-auth](https://github.com/active-auth)**
+
 An open-sourced cloud platform PBAC Authentication & Authorization Center.
 
 [English](documents/en/README.md) | [简体中文](documents/zh-Hans/README.md)
